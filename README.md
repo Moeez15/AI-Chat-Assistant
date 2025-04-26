@@ -63,3 +63,32 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 python gui.py
 ```
+
+## 🖥️ Usage
+
+- Type your query in the input field at the bottom.
+- Press Send to submit your message.
+- Watch as the AI types its response live!
+- Press Clear Chat anytime to reset the conversation window.
+
+## Video Walkthrough
+
+## 📁 Folder Structure
+```bash
+├── gui.py              # Main GUI and user interface logic
+├── ai_assistant.py     # AI response streaming logic
+├── .env                # Environment variables (API key)
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+```
+
+## 🌟 Future Improvements
+
+- Save chat history locally
+- Enable voice input and text-to-speech responses
+- Add customizable themes (Light / Dark Mode)
+- Improve API error handling and notifications
+
+## 📝 License
+
+This project is licensed under the MIT License.
