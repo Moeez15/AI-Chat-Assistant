@@ -49,3 +49,17 @@ source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 ```
 
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Set up your environment variables Create a .env file in the root directory:
+```bash
+GEMINI_API_KEY=your_api_key_here
+```
+
+5. Run the application
+```bash
+python gui.py
+```
