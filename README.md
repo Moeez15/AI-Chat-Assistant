@@ -12,12 +12,10 @@
 - License
 
 ## 📖 About
-
 AI Chat Assistant is a simple GUI-based chatbot powered by PyQt5 and Google's Gemini API.
 It provides an interactive chat experience where users can send queries and receive AI-generated responses with a real-time typing effect.
 
 ## ✨ Features
-
 - 📡 Real-time streaming of AI responses
 - 🎨 Modern, clean GUI using PyQt5
 - 🧹 Clear Chat button to reset the conversation
@@ -25,13 +23,11 @@ It provides an interactive chat experience where users can send queries and rece
 - 🔒 Environment-based API key management
 
 ## Tech Stack 🛠
-
 - Python 3.10+
 - PyQt5
 - Google Gemini API
 
 ## Setup Instructions 🛠️
-
 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/ai-chat-assistant.git
@@ -61,7 +57,6 @@ python gui.py
 ```
 
 ## 🖥️ Usage
-
 - Type your query in the input field at the bottom.
 - Press Send to submit your message.
 - Watch as the AI types its response live!
@@ -79,12 +74,10 @@ python gui.py
 ```
 
 ## 🌟 Future Improvements
-
 - Save chat history locally
 - Enable voice input and text-to-speech responses
 - Add customizable themes (Light / Dark Mode)
 - Improve API error handling and notifications
 
 ## 📝 License
-
 This project is licensed under the MIT License.
