@@ -8,7 +8,7 @@ It streams AI-generated messages in real-time, creating a natural, human-like co
 - About
 - Features
 - Tech Stack
-- Installation
+- Setup Instruction
 - Usage
 - Video Walkthrough
 - Folder Structure
@@ -27,3 +27,19 @@ The chatbot streams its responses character-by-character to simulate real typing
 - 🧹 Clear Chat button to reset the conversation
 - ⚡ Fast message typing simulation
 - 🔒 Environment-based API key management
+
+## Tech Stack 🛠
+
+- Python 3.10+
+- PyQt5
+- Google Gemini API
+
+## Setup Instructions 🛠️
+
+1. Clone the Repository
+```bash
+git clone https://github.com/your-username/ai-chat-assistant.git
+cd ai-chat-assistant
+
+
+
