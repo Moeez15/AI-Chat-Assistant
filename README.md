@@ -15,4 +15,9 @@ It streams AI-generated messages in real-time, creating a natural, human-like co
 - Future Improvements
 - License
 
+### 📖 About
+
+AI ChatBot Assistant is a desktop chat application that lets users interact with an AI in real-time.
+The chatbot streams its responses character-by-character to simulate real typing, delivering a more engaging and dynamic chat experience.
+
 
