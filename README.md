@@ -2,11 +2,11 @@
 
 ## 📚 Table of Contents
 - About
+- Video Walkthrough
 - Features
 - Tech Stack
 - Setup Instruction
 - Usage
-- Video Walkthrough
 - Folder Structure
 - Future Improvements
 - License
@@ -14,6 +14,8 @@
 ## 📖 About
 AI Chat Assistant is a simple GUI-based chatbot powered by PyQt5 and Google's Gemini API.
 It provides an interactive chat experience where users can send queries and receive AI-generated responses with a real-time typing effect.
+
+## Video Walkthrough
 
 ## ✨ Features
 - 📡 Real-time streaming of AI responses
@@ -46,7 +48,7 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
-4. Set up your environment variables Create a .env file in the root directory:
+4. Set up your environment variables. Create a .env file in the root directory:
 ```bash
 GEMINI_API_KEY=your_api_key_here
 ```
@@ -62,10 +64,10 @@ python gui.py
 - Watch as the AI types its response live!
 - Press Clear Chat anytime to reset the conversation window.
 
-## Video Walkthrough
-
 ## 📁 Folder Structure
 ```bash
+ai-chat-assistant/
+│
 ├── gui.py              # Main GUI and user interface logic
 ├── ai_assistant.py     # AI response streaming logic
 ├── .env                # Environment variables (API key)
