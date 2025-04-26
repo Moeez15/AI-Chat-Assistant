@@ -41,5 +41,8 @@ The chatbot streams its responses character-by-character to simulate real typing
 git clone https://github.com/your-username/ai-chat-assistant.git
 cd ai-chat-assistant
 
-
+2. Create a virtual environment and activate it
+python3 -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
 
