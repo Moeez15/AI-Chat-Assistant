@@ -15,9 +15,15 @@ It streams AI-generated messages in real-time, creating a natural, human-like co
 - Future Improvements
 - License
 
-### 📖 About
+## 📖 About
 
 AI ChatBot Assistant is a desktop chat application that lets users interact with an AI in real-time.
 The chatbot streams its responses character-by-character to simulate real typing, delivering a more engaging and dynamic chat experience.
 
+## ✨ Features
 
+- 📡 Real-time streaming of AI responses
+- 🎨 Modern, clean GUI using PyQt5
+- 🧹 Clear Chat button to reset the conversation
+- ⚡ Fast message typing simulation
+- 🔒 Environment-based API key management
